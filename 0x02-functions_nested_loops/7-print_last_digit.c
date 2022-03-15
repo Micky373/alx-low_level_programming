@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_last_digit - Return 1,0 or -1 depending on the sign
+ * print_last_digit - Return last digit of the number
  * @n: char type letter
- * Return: 1 if lowercase, 0 if not lowercase
+ * Return: the last degit
  */
 int print_last_digit(int n)
 {
