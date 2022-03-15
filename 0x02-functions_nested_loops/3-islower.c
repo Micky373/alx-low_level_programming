@@ -1,7 +1,9 @@
 #include "main.h"
 /**
- * is_lower - checks if the input is lower case
- **/
+ * _islower - Return 1 if letter is lowercase, 0 if not.
+ * c: char type letter
+ * Return: 1 if lowercase, 0 if not lowercase
+ */
 int _islower(int c)
 {
 if (c > 96 && c < 123)
