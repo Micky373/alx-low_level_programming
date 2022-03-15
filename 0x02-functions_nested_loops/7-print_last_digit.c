@@ -4,7 +4,7 @@
  * @n: char type letter
  * Return: 1 if lowercase, 0 if not lowercase
  */
-int print_last_digit(int)
+int print_last_digit(int n)
 {
-return (int%10)
+return ((n % 10));
 }
