@@ -19,6 +19,6 @@ _putchar('-');
 else
 {
 return (0);
-_putchar('48');
+_putchar(48);
 }
 }
