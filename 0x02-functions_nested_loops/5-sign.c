@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * _print_sign - Return 1 if number is positive, -1 if negative and 0 if it is zero.
+ * print_sign - Return 1 if number is positive, -1 if negative and 0 if it is zero.
  * @c: char type letter
  * Return: 1 if lowercase, 0 if not lowercase
  */
-int _print_sign(int n)
+int print_sign(int n)
 {
 if (n > 0)
 {
